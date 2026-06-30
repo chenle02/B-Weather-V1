@@ -8,7 +8,7 @@
         <package android:name="com.chenboda01.btasksv1" />
         <package android:name="com.chenboda01.bfocusv1" />
     </queries>
-    <application android:label="B-Weather V1" android:icon="@drawable/ic_launcher" android:theme="@style/AppTheme" android:usesCleartextTraffic="true">
+    <application android:label="B-Weather V1.1" android:icon="@drawable/ic_launcher" android:theme="@style/AppTheme" android:usesCleartextTraffic="true">
         <activity android:name=".MainActivity" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
